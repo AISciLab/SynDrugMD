@@ -1,0 +1,13 @@
+﻿family,method,metric,estimable_tissue_labels,q_below_005
+normalized,cell_cluster,OPC_pathway_jaccard,15,10
+normalized,cell_cluster,RPC_relation_pair_density,15,5
+normalized,source_pair_cluster,OPC_pathway_jaccard,16,14
+normalized,source_pair_cluster,RPC_relation_pair_density,16,4
+normalized,welch,OPC_pathway_jaccard,16,14
+normalized,welch,RPC_relation_pair_density,16,4
+raw,cell_cluster,OPC_stored,15,11
+raw,cell_cluster,RPC_stored,15,11
+raw,source_pair_cluster,OPC_stored,16,14
+raw,source_pair_cluster,RPC_stored,16,14
+raw,welch,OPC_stored,16,14
+raw,welch,RPC_stored,16,14

@@ -1,0 +1,19 @@
+﻿group,n_synergy,n_non,cluster_n
+All,36688,179342,224.0
+Bone,58,69,3.0
+Bowel,2692,6872,12.0
+Breast,5101,66710,55.0
+CNS/Brain,1389,4743,5.0
+Kidney,1887,7034,7.0
+Large Intestine,1463,25489,45.0
+Liver,1,14,
+Lung,3025,7970,13.0
+Lymphoid,1515,2604,7.0
+Myeloid,934,1680,2.0
+Ovary/Fallopian Tube,2048,4833,11.0
+Pancreas,1341,17309,29.0
+Pleura,305,887,1.0
+Prostate,816,1924,4.0
+Skin,3265,7836,14.0
+Soft Tissue,27,3,3.0
+Unknown,10821,23365,21.0

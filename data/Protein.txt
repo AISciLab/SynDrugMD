@@ -1,0 +1,3 @@
+Protein 17706 346330
+Hum 35943
+Gen_path 

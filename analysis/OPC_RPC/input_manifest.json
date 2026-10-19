@@ -1,0 +1,22 @@
+[
+  {
+    "source_relative": "交付成果/OPC_RPC新增材料核验/对齐现有论文队列的重建指标.csv.gz",
+    "sha256": "c0175e80ccb5487a8c59949c6eaf1bcdd3c6de56b5d2dbdc6ef1546f4b0630a6",
+    "bytes": 10481587
+  },
+  {
+    "source_relative": "交付成果/OPC_RPC新增材料核验/统计与规模敏感性/组间差异_样本量_效应量_BH与聚类区间.csv",
+    "sha256": "4963657e39709dc2f63d24769fafbbda81188f09dee08c6d94eb0c786d88d9f4",
+    "bytes": 77857
+  },
+  {
+    "source_relative": "交付成果/OPC_RPC新增材料核验/统计与规模敏感性/来源_靶点_通路规模_度数分层标准化.csv",
+    "sha256": "90358f5e8d0f71d5427a1e2c9ea35a3f500d20bfecb74f2bebffe95c6925ec90",
+    "bytes": 3403
+  },
+  {
+    "source_relative": "交付成果/OPC_RPC新增材料核验/统计与规模敏感性/分层支持域及权重.csv",
+    "sha256": "6a59c7d033c122058313aaf2b3d4e5e4d7c83109bd7454e909891cbae5d7852a",
+    "bytes": 160081
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "raw_t": 87.10566327903288,
+  "minmax_t": 87.10566327903288,
+  "zscore_t": 87.10566327903288,
+  "max_abs_t_difference": 0.0,
+  "interpretation": "Common Min-Max and global Z-score are affine rescalings. On identical observations they do not adjust target/pathway-size confounding."
+}

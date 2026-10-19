@@ -1,0 +1,5 @@
+﻿metric,equal_cell_difference,cells_with_both_labels
+OPC_pathway_jaccard,0.03470037823764327,219
+OPC_stored,19.436588921973307,219
+RPC_relation_pair_density,7.617732109696694e-06,219
+RPC_stored,29.753378481453918,219

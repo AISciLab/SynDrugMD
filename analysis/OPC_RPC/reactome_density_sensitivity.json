@@ -1,0 +1,16 @@
+{
+  "metric": "RPC / (Reactome pathway count A * Reactome pathway count B)",
+  "n_synergy": 35092,
+  "n_non": 158373,
+  "raw_mean_synergy": 0.007688236117805723,
+  "raw_mean_non": 0.007688444367190606,
+  "standardization": "source + target min/max bins + log4 Reactome pathway product + log4 CTD-induced relation-degree product",
+  "standardized_difference": 0.000618619703194597,
+  "bootstrap_95_low": -6.313115361598011e-06,
+  "bootstrap_95_high": 0.0012787996683780172,
+  "common_support_fraction": 0.9682164732638978,
+  "bootstrap_valid": 461,
+  "bootstrap_requested": 500,
+  "seed": 20261019,
+  "limit": "Exploratory sensitivity; Reactome 2023 resource year is author-confirmed. No degree-preserving graph null or causal interpretation."
+}

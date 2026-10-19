@@ -1,0 +1,75 @@
+{
+  "cohort_records": 216030,
+  "n_synergy": 36688,
+  "n_non": 179342,
+  "original_labels": [
+    "Breast",
+    "Unknown",
+    "Large Intestine",
+    "Pancreas",
+    "Skin",
+    "Lung",
+    "Bowel",
+    "Kidney",
+    "Ovary/Fallopian Tube",
+    "CNS/Brain",
+    "Lymphoid",
+    "Prostate",
+    "Myeloid",
+    "Pleura",
+    "Bone",
+    "Soft Tissue",
+    "Liver"
+  ],
+  "original_label_count": 17,
+  "cell_clusters": 224,
+  "primary_method": "two-sided mean difference with cell-cluster CR1 sandwich variance and t_(G-1) inference",
+  "primary_raw_family_planned": 36,
+  "primary_raw_family_estimable": 32,
+  "primary_nonestimable": [
+    {
+      "group": "Liver",
+      "metric": "OPC_stored",
+      "n_synergy": 1,
+      "n_non": 14,
+      "cluster_n": null
+    },
+    {
+      "group": "Liver",
+      "metric": "RPC_stored",
+      "n_synergy": 1,
+      "n_non": 14,
+      "cluster_n": null
+    },
+    {
+      "group": "Pleura",
+      "metric": "OPC_stored",
+      "n_synergy": 305,
+      "n_non": 887,
+      "cluster_n": 1.0
+    },
+    {
+      "group": "Pleura",
+      "metric": "RPC_stored",
+      "n_synergy": 305,
+      "n_non": 887,
+      "cluster_n": 1.0
+    }
+  ],
+  "threshold_rule": "strict score > threshold; P_syn = n_syn_retained / n_total_retained",
+  "threshold_display_rule": "RPC curves show thresholds with at least 100 total retained records; complete integer-threshold tables retain every threshold",
+  "threshold_display_max": 1056,
+  "full_cohort_synergy_fraction": 0.1698282645928806,
+  "figures": [
+    "Pathway_Statistics.pdf",
+    "RPC_Threshold_Profiles.pdf"
+  ],
+  "SL_reanalysis": false,
+  "raw_QC_or_relabeling": false,
+  "author_confirmed_Reactome_resource": "2023, https://reactome.org/download-data",
+  "software": {
+    "matplotlib": "3.10.8",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1"
+  }
+}
